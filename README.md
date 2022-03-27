@@ -1,0 +1,4 @@
+- 👋 Hello there, Octet here.
+- 👀 I’m interested in game development
+- 💼 I’m currently working full time as a software engineer, mostly Rust.
+- 👐 I’m spending my free time developing a secret project and a few plugins that are for [Godot](https://github.com/godotengine/godot) that are needed to make that happen.
