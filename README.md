@@ -4,4 +4,6 @@
 - 🦄 I’m spending my free time developing a *secret project* along with a few modules and changes for [Godot](https://github.com/godotengine/godot) that are essential to make that happen.
 
 **These are the [Godot Improvement Proposals](https://github.com/godotengine/godot-proposals) I'm currently focusing on:**
+- [Support triangle grids with GridMap #4337](https://github.com/godotengine/godot-proposals/issues/4375)
+- [Support half-offset square grids with GridMap #4337](https://github.com/godotengine/godot-proposals/issues/4386)
 - [Support hexagonal grids with GridMap #4337](https://github.com/godotengine/godot-proposals/issues/4337)
